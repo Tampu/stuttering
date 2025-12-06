@@ -58,7 +58,7 @@ Both notebooks include sections for:
 
 ### Approach 2
 
-- Explores additional feature engineering, a wider set of deep learning models, HuggingFace Transformers, and advanced visualization.
+- Explores use of Gemini for stuttering event detection with additional feature engineering.
 - Utilities for exporting feature summaries to JSON for further analysis.
 
 ## Contributing
