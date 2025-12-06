@@ -1,4 +1,4 @@
-**# stuttering_event_detection**# Stuttering Detection and Analysis
+# Stuttering Detection and Analysis
 
 This repository provides notebooks and code for the detection and analysis of stuttering using machine learning and audio processing techniques.
 
